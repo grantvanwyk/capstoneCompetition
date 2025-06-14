@@ -8,9 +8,6 @@ Throughout the Bayesian Optimisation capstone competition, I tackled eight diver
 This document summarises my approach to each function, outlines the strategies I adopted overall, and reflects on the lessons learned from the competition.
 
 
-## Function-specific Strategies and Outcomes
-
-
 ## Overall Strategy
 
 Across the competition, my general strategy included:
